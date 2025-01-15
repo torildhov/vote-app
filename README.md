@@ -24,7 +24,7 @@ Vote App is an interactive polling application that allows users to create, shar
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/vote-app.git
+git clone https://github.com/torildhov/vote-app.git
 ```
 
 2. Navigate to the project directory:
